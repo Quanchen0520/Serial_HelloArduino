@@ -3,5 +3,5 @@ void setup () {
 	Serial.print("Hello Arduino!"); // 設定輸出文字
 }
 void loop () {
-  // Serial.print("Hello Arduino!"); // 設定輸出文字
+  
 }
